@@ -42,7 +42,6 @@ extension WelcomeViewTableCell {
 }
 
 // MARK: - Private Methods
-
 private extension WelcomeViewTableCell {
     func setupViews() {
         self.addSubviews(containerView)

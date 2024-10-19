@@ -33,7 +33,7 @@ final class WelcomeView: UIView {
     // MARK: - Layers
     private let gradient = CAGradientLayer()
     
-    // MARK: - Initialization
+    // MARK: - Init
     override init(frame: CGRect) {
         super.init(frame: frame)
         
